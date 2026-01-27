@@ -1,4 +1,4 @@
-An analysis of Doppler beam sharpening 	technique used in fighter aircraft
+An Analysis of Doppler Beam Sharpening Technique Used in Fighter Aircraft
 
 
 Abstract:
