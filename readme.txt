@@ -13,4 +13,4 @@ Doppler Beam Sharpening (DBS), Radar Imaging, Fighter Aircraft, Synthetic apertu
 
 Cite:
 -----
-E. Onat and Y. Özkazanç, "An analysis of Doppler beam sharpening technique used in fighter aircraft," 2018 26th Signal Processing and Communications Applications Conference (SIU), Izmir, Turkey, 2018, pp. 1-4, doi: 10.1109/SIU.2018.8404521.
+E. Onat and Y. Özkazanç, "An analysis of Doppler beam sharpening technique used in fighter aircraft," 2018 26th Signal Processing and Communications Applications Conference (SIU), Izmir, Turkey, 2018, pp. 1-4, doi: https://doi.org/10.1109/SIU.2018.8404521.
