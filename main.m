@@ -8,7 +8,7 @@
 % Dr. Emrah Onat - TOBB University of Economics and Technology, Ankara, Turkey (eonat87@yahoo.com)
 % Dr. Yakup Ozkazanc - Hacettepe University, Ankara, Turkey
 %
-% Matlab code for Figure 
+% Matlab code for the Figure 
 
 clear all
 close all
